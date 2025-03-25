@@ -1,0 +1,23 @@
+REQUISITOS FUNCIONALES
+Autenticacion de usuarios
+gestion de usuarios 
+recuperacion de contraseña
+gestion de roles y permisos
+carga y almacenamiento de archivos
+busqueda de informacion
+gestion de productos o servicios
+generacion de reportes
+notificaciones y alertas
+interfaz de usuario intuitiva
+registro de actividad
+proceso de pago en linea
+seguridad de las transacciones
+acceso desde dispositivos moviles
+
+REQUISITOS NO FUNCIONALES
+Rendimiento
+Seguridad
+
+REQUISITOS DE DISEÑO
+Arquitectura del sistema
+Interfaz de usuario
