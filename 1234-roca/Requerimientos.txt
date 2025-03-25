@@ -1,0 +1,50 @@
+# Documento de Requisitos de Software
+Diego Villazon
+
+## 1. Introducción
+
+### 1.1. Alcance del Producto
+Estamos desarrollando esta aplicacion para dar contenido de informacion, entretenimiento y noticias de
+creadores de diferentes paises mediante videos cortos siendo esta informacion veridica y verificada por 
+fuentes confiables y creadores reconocidos.
+### 1.2. Valor del Producto
+Esta aplicacion es gratis pero cuenta con sistemas de suscripciones ya que estos ayudaran a recibir
+informacion mucho mas antes que otros usuarios y asi manterse informado al momento.
+### 1.3. Público Objetivo
+
+### 1.4. Uso Previsto
+
+### 1.5. Descripción General
+
+El software funcionaria de la misma forma que TikTok, solamente que mostrará información verificada en formato de videos de 1 minuto o menos. Además, el software tendrá métodos de pago para suscribirse y tener acceso a las noticias. 
+
+## 2. Requisitos
+
+### 2.1. Requisitos Funcionales
+- *Creación y visualización de contenido*: Los usuarios podrán subir y ver videos informativos sobre noticias verificadas.
+- *Categorías de noticias*: Opción para filtrar videos por categorías como política, tecnología, deportes, cultura, entre otras.
+- *Sistema de verificación*: Integrar herramientas o procesos para garantizar que las noticias sean verídicas (por ejemplo, moderadores o inteligencia artificial).
+- *Interacciones básicas*: Los usuarios podrán dar "me gusta", comentar y compartir videos dentro y fuera de la plataforma.
+- *Notificaciones*: Los usuarios recibirán alertas sobre noticias relevantes o nuevos videos en sus temas de interés.
+- *Perfil de usuario personalizado*: Los usuarios pueden crear perfiles personalizados para guardar sus preferencias y configuraciones.
+- *Traducción automática*: Opción para traducir los videos o subtítulos a diferentes idiomas en tiempo real.
+- *Búsqueda avanzada*: Implementar un motor de búsqueda que permita filtrar por palabras clave, fecha, popularidad, entre otros.
+- *Control parental*: Función que limite el acceso a ciertos tipos de contenido según la configuración del usuario.
+- *Sistema de reportes*: Los usuarios pueden reportar videos o comentarios que violen las normas de la comunidad.
+- *Listas de reproducción*: Permitir a los usuarios agrupar videos en listas de reproducción temáticas para facilitar el acceso.
+- *Estadísticas del contenido*: Mostrar datos como vistas, "me gusta", y tiempo de visualización promedio para los creadores de contenido.
+- *Interacciones en tiempo real*: Chat en vivo o encuestas durante transmisiones en vivo para fomentar la interacción.
+- *Historial de visualizaciones*: Guardar un registro de los videos vistos para que los usuarios puedan consultarlos fácilmente.
+- *Fomentar contenido local*: Una sección dedicada a noticias locales para que los usuarios puedan conocer lo que sucede en su comunidad
+
+### 2.2. Requisitos de Diseño
+- *Interfaz intuitiva*: Diseño simple y limpio que priorice la accesibilidad y facilidad de uso.
+- *Diseño adaptable*: Compatibilidad con dispositivos móviles y tablets para una experiencia fluida.
+- *Paleta de colores informativa*: Utilizar colores sobrios y confiables para transmitir seriedad y profesionalismo.
+- *Diseño visual de noticias*: Asegurarse de que las miniaturas de los videos sean claras y atractivas, destacando el título y la fuente.
+
+### 2.3. Requisitos No Funcionales
+- *Alto rendimiento*: La aplicación debe cargar videos y datos de manera rápida, incluso con una alta concurrencia de usuarios.
+- *Escalabilidad*: La arquitectura debe permitir crecer en usuarios y contenido sin comprometer el rendimiento.
+- *Seguridad de datos*: Implementar estándares de privacidad y seguridad para proteger la información de los usuarios.
+- *Bajo consumo de recursos*: Optimizar la aplicación para que no consuma demasiados recursos en los dispositivos de los usuarios.
