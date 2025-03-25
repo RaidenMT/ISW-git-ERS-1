@@ -1,0 +1,28 @@
+#Documento de Requisitos de Software
+
+
+### 1. Requisitos Funcionales
+
+-Busqueda de contenido
+-Interacción entre Usuarios
+-Personalización de Perfiles
+-Autenticación y gestión de usuarios
+-Reproducción de música
+-Gestión de listas de reproducción
+-Descurbimiento y búsqueda de Música
+-Recomencaciones personalizadas
+-Interacción Social
+-Historial de Reproducción
+-Configuración y Preferencias
+-Integración con otras Aplicaciones
+-Gestión de Planes de Suscripción
+-Publicidad y Monetizacion (cuentas gratuitas)
+-Biblioteca y Colección de Música
+
+### 1.1 Requisitos De Diseño
+Colores del software y su logo
+Los colores del software son el celeste y negro. 
+se copia el logo de Spotify haciéndolo al revés. 
+### 1.2 Requisitos No Funcionales
+Tener una capacidad de hasta 1000000 de usuarios al mismo tiempo.
+Nivel de seguridad media.
