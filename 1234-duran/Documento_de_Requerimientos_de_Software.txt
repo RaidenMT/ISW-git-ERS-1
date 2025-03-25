@@ -1,4 +1,4 @@
-s## 2. Requisitos.
+## 2. Requisitos.
 Esta sección detalla de manera concreta los requisitos que debe cumplir Netflex para asegurar su correcto funcionamiento y ofrecer una experiencia de usuario óptima.
 
 ### 2.1. Requisitos Funcionales.
