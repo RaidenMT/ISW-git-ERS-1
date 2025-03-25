@@ -1,0 +1,27 @@
+#Documento de requisitos de Software
+
+## 2. Requisitos.
+
+### 2.1. Requisitos Funcionales
+-Registro de usuarios
+-Creación de perfiles de artistas 
+-Subida de música 
+-Reproduccion de musica 
+-Exploración de nuevos artistas
+-Listas de reproducciones 
+-sistema de búsqueda 
+-Seguimiento de artistas 
+-Comentarios y reseñas
+-Panel de estadísticas para artistas 
+-Integración con redes sociales 
+-Descarga de musica 
+-Personalización de la interfaz
+-Notificaciones 
+
+### 2.2 Requisitos De Diseño
+-Navegación intuitiva 
+-Accesibilidad
+
+### 2.3. Requisitos No Funcionales.
+-Seguridad: usuario y contraseña
+-Usabilidad: mas de 100000 usuarios
