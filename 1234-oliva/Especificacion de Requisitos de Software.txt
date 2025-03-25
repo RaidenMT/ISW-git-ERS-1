@@ -1,0 +1,71 @@
+Jesús Benjamín Oliva Blanco
+https://github.com/Benja-Oliva/ISW-111.git
+
+#Documento de Requisitos de Software
+
+## 1. Introducción.
+
+### 1.1. Alcance del Producto. 
+Vamos a trabajar con una aplicacion diseñada para poder transmitir musica de forma aleatoria y mas barata. 
+### 1.2 Valor del Producto.
+Se utiliza para dar oportunidad a artistas pequeños a ser escuchados y transmitir su talento, creando una base de seguidores y ganar un poco de dinero con eso, de igual manera es una opcion mas accesible y con mas variabilidad de musica para usuarios mas aventureros. 
+### 1.3. Público objetivo.
+Artistas emergentes e independientes y usuarios mas exploradores con ganas de descubrir nuevos artistas. 
+### 1.4. Uso previsto.
+La aplicación estará disponible en dispositivos móviles (iOS y Android) y en computadoras de escritorio y portátiles a través de una versión web. Esto permitirá a los usuarios escuchar música, interactuar con artistas y realizar transacciones desde cualquier lugar y en pantallas más grandes, mejorando la experiencia general.
+### 1.5. Descripción general.
+La aplicación es una plataforma de streaming que permite a artistas emergentes compartir su música y monetizar su talento. Ofrece a los usuarios una variedad de música para descubrir nuevos artistas y está disponible en dispositivos móviles y computadoras.
+## 2. Requisitos.
+
+### 2.1. Requisitos Funcionales
+
+-Busqueda de contenido
+-Interacción entre Usuarios
+-Personalización de Perfiles
+-Autenticación y gestión de usuarios
+-Reproducción de música
+-Gestión de listas de reproducción
+-Descurbimiento y búsqueda de Música
+-Recomencaciones personalizadas
+-Interacción Social
+-Historial de Reproducción
+-Configuración y Preferencias
+-Integración con otras Aplicaciones
+-Gestión de Planes de Suscripción
+-Publicidad y Monetizacion (cuentas gratuitas)
+-Biblioteca y Colección de Música
+-Control y Restricciones
+
+### 2.2 Requisitos De Diseño
+Colores del software y su logo
+Los colores del software son el celeste y negro. 
+se copia el logo de Spotify haciéndolo al revés. 
+Funcionalidad
+
+-Plataforma de Streaming para artistas emergentes e independientes.
+-Soporte para búsquedas y organización de contenido.
+-Posibilidad de realizar pagos mediante transacciones o criptomonedas.
+-Funcionalidad de comunicación entre usuarios (clientes y artistas).
+-Usabilidad
+-Interfaz amigable y accesible, similar a Spotify.
+-Navegación intuitiva para la búsqueda y organización de artistas.
+-Proceso de compra/transacción claro y sencillo.
+-Rendimiento
+-Carga rápida del contenido.
+-Streaming sin interrupciones.
+-Manejo eficiente de múltiples usuarios en línea.
+-Escalabilidad
+-Capacidad para soportar un creciente número de usuarios y artistas.
+-Soporte para futuras expansiones en funcionalidades y pagos.
+-Mantenibilidad
+-Código  bien documentado para facilitar actualizaciones.
+-Versión web y aplicación móvil para mayor accesibilidad.
+-Compatibilidad con diferentes sistemas operativos y dispositivos.
+-Personalización
+-Opciones de personalización  para usuarios y artistas.
+-Posibilidad de modificar perfil.
+
+### 2.3. Requisitos No Funcionales.
+-Seguridad: inicio de sesión de cada usuario.
+-Usuarios: 1000000
+-Dispositivos: Web y dispositivo móvil
