@@ -1,0 +1,44 @@
+# Documento de Requisitos de Software
+
+## 1. Introducción.
+
+### 1.1. Alcance del Producto.
+
+### 1.2. Valor del producto.
+
+### 1.3. Público objetivo.
+La aplicacion tok tik estamos abarcando un publico dinamico tanto noticias para el publico mayor como el juvenil
+para tener un mayor impacto y poder abarcar la necesidades del usuario.
+
+### 1.4. Uso previo.
+Uso que le queremos dar es poder dar una facilidad al momento de enterarnos de una noticia para eso lo pondremos 
+como aplicacion para moviles y sitios web para computadoras funcionales.
+### 1.5. Descripción general.
+
+
+## 2. Requisitos.
+
+### 2.1. Requisitos funcionales.
+-Creacion y visualizacion de contenido. 
+-Catergorias de noticas.
+-Sistema de verificacion.
+-Interacciones basicas.
+-Notificaciones.
+-Apartado de pagos.
+-Historial de videos vistos-
+-Historial de videos y noticias con me gusta.
+-Apartado con visualizacion de contenido personal.
+-Conectividad con la comunidad.
+-Optimizacion del programa.
+-Personalizacion del perfil.
+-Mantenimiento del programa.
+-Interfaz dinamica.
+-Seccion de noticias por pais.
+### 2.2. Requisitos de diseño.
+- Interfaz intuitiva.
+- Diseño visual de noticias.
+
+### 2.3. Requisitos no funcionales.
+- Seguridad de datos.
+
+
