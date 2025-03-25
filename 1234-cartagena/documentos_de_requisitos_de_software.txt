@@ -1,0 +1,40 @@
+# Documento de Requisito de Software
+
+## 1. Introducción.
+
+### 1.1. Alcance del Producto.
+
+### 1.2. Valor del producto.
+
+### 1.3. Publico objetivo.
+
+### 1.4. Uso previsto.
+
+### 1.5. Descripcion General.
+
+## 2. Requisitos.
+
+### 2.1. Requisitos Funcionales
+- Creación y visualización 
+- Categorías de noticias
+- Sistema de verificación
+- Interacciones básicas
+- Notificaciones
+- Sistema de pago
+- Personalizacion de perfil
+- Optimizacion en el programa
+- Gran disponibilidad a todos los dispositivos
+- Manteminito del programa
+- Conectavidad con la comunidad
+- Historial de videos
+- Sistema de algoritmo
+- Apartado de mis video Favoritos
+- Seccion de noticias por pais
+
+### 2.2. Requisitos de Diseño
+- Interfaz intuitiva
+- Diseño adaptable 
+
+### 2.3. Requisitos No Funcionales
+- Alto rendimiento 
+- Seguridad de datos
