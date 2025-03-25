@@ -1,0 +1,27 @@
+## 2. Requisitos.
+Esta sección detalla de manera concreta los requisitos que debe cumplir Netflex para asegurar su correcto funcionamiento y ofrecer una experiencia de usuario óptima.
+
+### 2.1. Requisitos Funcionales.
+- Inicio de sesión y registro de usuarios, con verificación por correo electrónico o SMS.
+- Realización de pagos mediante tarjeta de crédito o débito, con opciones flexibles (pago semanal, mensual o anual).
+- Selección entre planes Individual, Duo y Familiar, adaptados a distintas necesidades.
+- Acumulación y canje de puntos para obtener beneficios exclusivos, como acceso a contenido premium y promociones especiales.
+- Inteligencia artificial que sugiere películas y series basadas en el historial y preferencias del usuario.
+- Herramienta de IA que traduce automáticamente los subtítulos a varios idiomas.
+- Funcionalidad que transforma subtítulos en audio, facilitando el acceso al contenido para diversos públicos.
+- Sistema basado en IA (similar a ChatGPT) que reconoce o sugiere películas a partir de descripciones imprecisas (estilo de animación, género, nombres aproximados de personajes o trama vaga).
+- Herramienta para filtrar y buscar contenido según género, actores, directores y calificaciones.
+- Configuración de perfiles con opciones de privacidad y personalización de la interfaz.
+- Sistema de alertas para informar sobre nuevas incorporaciones, promociones y eventos especiales.
+- Conexión que permite compartir contenido y experiencias a las redes sociales directamente desde la plataforma.
+- Búsqueda Inteligente con IA 
+- Descarga para visualización Offline
+- Perfiles Personalizados con IA Adaptativa
+
+### 2.2. Requisitos de Diseño.
+- Interfaz Minimalista, Elegante, Amigable y Moderna.
+- Uso de Animaciones y Transiciones Suaves.
+
+### 2.2. Requisitos no Funcionales.
+- Rendimiento muy alto.
+- Seguridad Adaptadas al manejo de información (media).
